@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Henlo frens"
 ---
 
-I'm glad you are here. I plan to talk about ...
+beep boop beep beep
